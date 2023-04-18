@@ -1,4 +1,4 @@
 # Kokoa Clone 2023
 
-CSS got so much better!
-HTML Also so much better!
+
+Html, CSS로만 만든 코코아톡클론
